@@ -3,6 +3,8 @@
 Welcome to my computer vision model implementation series!  
 This repository serves as a central hub for my **from-scratch implementations** of legendary computer vision models, each broken down and reconstructed with clarity and precision.
 
+
+
 ---
 
 ## 🚀 Introduction
@@ -23,6 +25,8 @@ The purpose of this project is twofold:
 ## 🔁 Workflow
 
 Each implementation follows a consistent and rigorous pipeline:
+
+![image](https://github.com/user-attachments/assets/c0bb7f29-2b8b-474e-8ce6-7a8fcc2cdee1)
 
 1. **Paper Reading & Understanding**  
    Analyze the original research paper to understand the theoretical backbone of the model.
