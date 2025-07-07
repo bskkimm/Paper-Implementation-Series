@@ -1,7 +1,7 @@
 # 📚 From Paper to Code: Implementations of Key Computer Vision Papers from Scratch
 
 Welcome to my computer vision model implementation series!  
-This repository serves as a central hub for my **from-scratch implementations** of legendary computer vision models, each broken down and reconstructed with clarity and precision.
+This repository serves as a central hub for my **Computer vision paper implementation series** of legendary computer vision model.
 
 
 
@@ -9,7 +9,7 @@ This repository serves as a central hub for my **from-scratch implementations** 
 
 ## 🚀 Introduction
 
-This repository briefly introduces my **legendary computer vision model implementation series**, where I faithfully reimplement influential papers to gain hands-on, low-level understanding of the techniques driving modern visual AI systems.
+This repository briefly introduces my **Computer vision paper implementation series**, where I faithfully reimplement influential papers to gain hands-on, in-depth understanding of the techniques driving modern visual AI systems.
 
 ---
 
