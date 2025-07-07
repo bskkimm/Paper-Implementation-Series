@@ -47,66 +47,25 @@ Each implementation follows a consistent and rigorous pipeline:
 
 ## 🧠 Implemented Models
 
-### 📌 [YOLOv1 – You Only Look Once (v1)](https://github.com/yourname/yolov1-repo)
-#### 🔍 Model Summary
+### 📌 YOLOv1 – You Only Look Once (v1)  
+🔗 [GitHub Repository](https://github.com/bskkimm/Simple-YOLO-v1-implementation-from-scratch-using-PyTorch-) | [Medium Article](https://medium.com/@bskkim2022/yolo-v1-implementation-from-scratch-using-pytorch-d7fa95ff06ea)
+
 YOLOv1 is a real-time object detection model that reframes detection as a single regression problem, directly predicting class probabilities and bounding boxes from full images in one evaluation. It introduced a new paradigm compared to two-stage detectors like R-CNN.
 
-#### 📊 Results
-
-| Metric          | Value |
-|-----------------|-------|
-| mAP (VOC 2007)  | 63.4% |
-| FPS             | 45    |
-
-<div align="center">
-  <img src="results/yolov1_sample1.png" width="400"/>
-  <img src="results/yolov1_sample2.png" width="400"/>
-</div>
-
 ---
 
-### 📌 [ViT – Vision Transformer](https://github.com/yourname/vit-repo)
-#### 🔍 Model Summary
+### 📌 ViT – Vision Transformer
+🔗 [GitHub Repository](https://github.com/bskkimm/Simple-ViT-Implementation) | [Medium Article](https://medium.com/@bskkim2022/paper-reimplementation-vit-vision-transformer-eed3ad20dfe7)
+
 ViT replaces convolutional layers with pure transformer blocks. It splits the image into patches, flattens them, and feeds them into a standard transformer architecture, achieving state-of-the-art performance with sufficient data.
 
-#### 📊 Results
-
-| Metric        | Value     |
-|---------------|-----------|
-| Top-1 Accuracy| 83.1%     |
-| Dataset       | ImageNet  |
-
-<div align="center">
-  <img src="results/vit_patch_embed.png" width="400"/>
-  <img src="results/vit_attention.png" width="400"/>
-</div>
 
 ---
 
-### 📌 [DETR – DEtection TRansformer](https://github.com/yourname/detr-repo)
-#### 🔍 Model Summary
+### 📌 DETR – DEtection TRansformer
+🔗 [GitHub Repository](https://github.com/bskkimm/Simple-DETR-Implementation) | [Medium Article](https://medium.com/@bskkim2022/detr-implementation-from-scratch-using-pytorch-0f783fe06363)
+
 DETR is a novel object detection model that unifies detection with transformers and bipartite matching. It eliminates the need for many hand-crafted components like anchor boxes or NMS, making detection elegantly simple.
-
-#### 📊 Results
-
-| Metric        | Value     |
-|---------------|-----------|
-| mAP (COCO)    | 43.5%     |
-| FPS           | 28        |
-
-<div align="center">
-  <img src="results/detr_example1.png" width="400"/>
-  <img src="results/detr_example2.png" width="400"/>
-</div>
-
----
-
-## 🛠️ Tools & Libraries
-
-- Python 3.10
-- PyTorch
-- NumPy, OpenCV, Matplotlib
-- Weights & Biases (for logging, optional)
 
 ---
 
@@ -117,17 +76,4 @@ This is a solo learning project, but feel free to:
 - Open issues for suggestions
 - Fork and experiment
 
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 📫 Contact
-
-Feel free to reach out if you’re working on similar implementations or have any feedback!  
-**Author:** [Your Name]  
-**Website:** [yourwebsite.com](https://yourwebsite.com)
 
