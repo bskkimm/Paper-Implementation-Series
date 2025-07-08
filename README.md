@@ -69,7 +69,7 @@ DETR is a novel object detection model that unifies detection with transformers 
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
 This is a solo learning project, but feel free to:
 - Star ⭐ the repos
